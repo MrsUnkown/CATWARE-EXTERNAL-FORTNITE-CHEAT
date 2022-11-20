@@ -1,7 +1,7 @@
 
 #  CATWARE-EXTERNAL-FORTNITE-CHEAT
 Current features:
-
+# Updated to 11/19/22
 - Memory Aimbot
 - Silent Aimbot
 - Visuals
